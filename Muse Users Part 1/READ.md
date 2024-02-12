@@ -1,2 +1,1 @@
-A primeira numeração refere-se aos utilizadores que participaram na 2ª experiência (51 participantes). Dentro de cada utilizador, constam os números dos 4 sites designados para o participante em questão.
-Cada site contem 4 ficheiros excell para os sinais que foram registados
+The first numbering refers to the users who participated in the second experiment (51 participants). Within each user, there are the numbers of the four designated sites for that specific participant. Each site contains four Excel files for the signals that were recorded.
